@@ -205,11 +205,11 @@ def main():
         tokenizer=processor.feature_extractor,
     )
 
-<<<<<<< HEAD
-# Treinamento do modelo
-=======
 
->>>>>>> d0908e36ee39679ccb0e4725dbf41ac72d3e87b4
+# Treinamento do modelo
+
+
+
     trainer.train()
 
 if __name__ == "__main__":
